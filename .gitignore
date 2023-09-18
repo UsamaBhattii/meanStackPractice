@@ -1,0 +1,7 @@
+# compiled output
+Server/dist
+
+# dependencies
+Client/practiceManagement/node_modules
+
+Server/node_modules
